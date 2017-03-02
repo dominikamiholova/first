@@ -1,1 +1,2 @@
 # first
+Tento repozitář jsem založila kvůli škole. V předmětu ŇAMI :D - Nástroje a možnosti internetu - totiž začínáme brát verzování, které bude provádět v GitHubu. Je to pro mě zcela nové.... tak jsem zvědavá jak to zvládnu.
