@@ -1,0 +1,97 @@
+/* CSS Document */
+    
+       body {
+       
+      background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/retina_wood.png');
+      font-family: Arial;
+      margin: 5px;
+      padding:10px;
+      font-size: 20px;
+     
+      
+      }
+     
+      .zanr {
+      
+      font-family: Arial;
+      font-size: 40px;      
+      
+      }
+      
+      h1 {
+      text-align: center;
+      font-size: 80px;
+      font-family: fantasy;
+      float: none;
+      color: darkred;
+      border-right-style: double;
+      border-right-color: darkred;
+      border-left-style: double;
+      border-left-color: darkred;
+      
+    }
+      
+      h2:first-letter  {
+      
+      font-size: 180%;
+      
+      }      
+      
+      h2 {
+      
+      color: darkblue;
+      font-size: 58px;
+      font-family: fantasy;
+                  
+      }
+      
+      p {
+      
+      justify-content: center;
+      
+      } 
+      
+             
+      .autor,.zdroj {            
+       text-align:right;
+       text-transform: uppercase;
+       line-height: 50%;
+       color:black;
+       font-family: Arial;
+       }
+     
+    
+     
+      i { 
+      
+      line-height: 60px
+      
+      }
+      
+      p,i {
+      
+      font-family: sans-serif;
+      text-align:justify;
+      font-weight: 600;
+      text-indent:10%;
+      color:black;
+      
+      }
+      
+      blockquote {
+      
+      float:left;
+      font-style: italic;
+      color: brown;
+      font-weight: 700;
+      font-size: 27px;
+      
+      }
+      
+      
+      li {
+      
+      list-style: none
+      }
+    
+  
