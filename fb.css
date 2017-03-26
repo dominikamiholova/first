@@ -1,0 +1,12 @@
+   body {font-size: 20px; background-color: rgb(56, 53, 88);}
+      h1 {color:darkblue; font-style:normal;font-size: 3em;text-align: center;margin-left: 250px; margin-right: 250px;background-color: white;} 
+      h2 {color:darkblue; font-style: normal;font-size: 2em;text-align: left;background-color: white; margin-left: 250px; margin-right: 250px;}       
+      p {font-family:sans-serif; margin-left: inherit;background-color: white; margin-left: 250px; margin-right: 250px;}
+        #pytel {background-color:white; line-height: 1,5em; text-align:left; margin-left: 250px; margin-right: 250px;}
+        #soutez {background-color:white; line-height: 1,5em; text-align:left; margin-left: 250px; margin-right: 250px;}
+        #zaver {background-color:white; line-height: 1,5em; text-align:left; margin-left: 250px; margin-right: 250px;}
+        .zanr {text-align: center;font-size: 4em;background-color: white;margin-left: -250px;margin-right: -250px;}
+        .autor {font-weight: bolder;background-color: white;color: darkblue;margin-left: 250px; margin-right: 250px;}
+        .name {font-weight: bolder;background-color: white;color: darkblue;margin-left: 250px; margin-right: 250px;}
+        .zdroj {font-weight: bolder;background-color: white;color: darkblue;margin-left: 250px; margin-right: 250px;}
+      blockquote  {font-weight: bolder;background-color: white;color: darkblue;margin-left: 250px; margin-right: 250px;}/* CSS Document */
